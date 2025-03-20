@@ -74,4 +74,5 @@ int main() {
 
 ![image](https://github.com/user-attachments/assets/e923a36d-d590-4739-b6be-a12c32217b7e)
 
-### Code: [https://www.programiz.com/online-compiler/6DMigHWJA0ATk](url)
+### Code: 
+[https://www.programiz.com/online-compiler/6DMigHWJA0ATk](url)
